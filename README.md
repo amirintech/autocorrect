@@ -16,9 +16,7 @@ To install and use AutoCorrect, follow these steps:
 ```bash
 git clone https://github.com/amirintech/autocorrect.git
 cd autocorrect
-python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
-pip install -r requirements.txt
+python main.py
 ```
 
 ## How It Works
