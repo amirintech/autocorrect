@@ -105,4 +105,4 @@ print(f"The suggestions for '{my_word}' are: {corrections}")
 - `preprocessing.py` - Handles text preprocessing and tokenization.
 - `word_edits.py` - Implements functions for generating spelling variations.
 - `main.py` - Entry script for running the spell checker.
-- `data/shakespeare.txt` - Sample corpus file for building word probabilities.
+- `shakespeare.txt` - Sample corpus file for building word probabilities.
